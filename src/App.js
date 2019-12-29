@@ -55,25 +55,6 @@ function App(){
                 <Button   variant="contained" color="secondary" size="small">تکمیل خرید و انتقال به صفحه اصلی</Button>
 
 
-               // initiateTimer = () => {
-             //   const timeLeftVar = this.secondsToTime(60);
-              //  this.setState({ timeLeft: timeLeftVar })
-          //  };
-
-              //  startTimer = () => {
-              //  const interval = setInterval(this.timer, 1000);
-              //  this.setState({ interval: interval });
-          //  };
-
-             //   timer = () => {
-             //   if (this.state.timeLeft >0){
-              //  this.setState({ timeLeft: this.state.timeLeft -1 });
-          //  }
-             //   else {
-             //   clearInterval(this.state.interval);
-                //this.postToSlack();
-            }
-            };
             </CardActions>
 
         </Card>
